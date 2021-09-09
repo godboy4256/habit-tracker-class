@@ -1,0 +1,23 @@
+/* public-con-styles */
+.count-style{
+    width: 3.5rem;
+    height:3.5rem;
+    font-size: 2.4rem;
+    display: flex;
+    background-color: green;
+    color: #fff;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+  }
+
+.button-style{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: coral;
+    color: #fff;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+  /* public-con-styles */

@@ -1,0 +1,33 @@
+.habit-trackr-header{
+    width: 100%;
+    background-color: coral;
+    color: #fff;
+    display: flex;
+    padding: 3em;
+    align-items: center;
+   
+}
+
+.habit-trackr-header > .header-logo-leaf > svg{
+    font-size: 2.5rem;
+    color: green;
+}
+
+.habit-trackr-header > h1{
+    font-size: 3.5rem;
+    font-weight:600;
+    margin: 0 0.6em;
+}
+
+.count-style{
+    width: 3.5rem;
+    height:3.5rem;
+    font-size: 2.4rem;
+    display: flex;
+    background-color: green;
+    color: #fff;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+}
+

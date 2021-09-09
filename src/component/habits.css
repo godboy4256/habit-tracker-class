@@ -1,0 +1,51 @@
+/* habitadd */
+.habitadd{
+    padding: 3em;
+    display: flex;
+    align-items: center;
+}
+.habitadd > .add-text{
+    width: 40%;
+    padding:0.5em;
+    margin-right: 1em;
+    font-size:20px;
+}
+.habitadd > .add-submit{
+    width: 50px;
+    padding: 1em;
+    border-radius: 10%;
+}
+
+/* habitadd */
+
+/* onehabit */
+.onehabit{
+    display: flex;
+    align-items: center;
+    padding: 2em 5em 2em;
+}
+.onehabit .habitcon{
+    font-size: 3rem;
+    text-transform:capitalize;
+    margin-right: 0.5em;
+}
+.onehabit .habit-count{
+    margin: 0;
+}
+.onehabit .habit-plus,
+.onehabit .habit-minus{
+    color:coral;
+    font-size: 3rem;
+    padding-left:0.5em;
+    cursor: pointer;
+}
+/* onehabit */
+
+/* reset-all */
+.reset-all{
+    width:14rem;
+    height:4rem;
+    border-radius: 0.5em;
+    margin: 3em 0 0 1em;
+}
+/* reset-all */
