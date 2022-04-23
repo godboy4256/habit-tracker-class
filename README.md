@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# 개인 프로젝트 ( 학습 ) 05 : 해빗 트래커 ( 습관 추적기 ) 
+<p align="center"><img src="https://thumbs.dreamstime.com/b/habit-tracker-template-diary-layout-month-vector-illustration-journal-planner-bullets-goal-list-pink-background-219415224.jpg"></p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+&nbsp;
+&nbsp;
 
-## Available Scripts
+## 학습 목표
+리액트 문법 복습 및 클래스 컴포넌트 형식의 리액트 프레임워크 문법 학습
 
-In the project directory, you can run:
+&nbsp;
+&nbsp;
 
-### `yarn start`
+## 설명
+해빗 트래커, 습관 추적기라는 뜻이며 자신의 습관과 그 습관의 횟수나 시간을 추가하여 지켜나가기 위한 투두리스트 개념의 기능입니다. 여기서 습관이란 운동이나 공부 시간 등을 정하는 예시를 들 수 있겠습니다. 해당 프로젝트는 드림코딩 엘리의 리액트 강의 ( https://academy.dream-coding.com/courses/react-basic ) 참고하여 프로젝트를 진행했고 함수형 컴포넌트 문법으로 만들어진 이전 비즈니스 카드 프로젝트에 이어서 이번에는 클래스 컴포넌트 문법을 학습하기 위한 정말 간단한 학습용 프로젝트입니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+&nbsp;
+&nbsp;
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 기능
+1. 습관 추가 및 삭제
+2. 추가한 습관에 대한 횟수나 시간을 지정
+3. 현재 추가한 모든 습관의 개수 확인
+4. 모든 습관의 횟수 리셋 
 
-### `yarn test`
+&nbsp;
+&nbsp;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 활용 스택
+### <img src="https://user-images.githubusercontent.com/82381946/164891267-2360c764-827e-4661-9842-a1fd29a41b57.png"  width="50"/>  <p>CSS</p> 
+### <img src="https://user-images.githubusercontent.com/82381946/164913523-01deeb5e-34f6-4344-932f-05d2a9923813.png"  width="50"/>  <p>JAVASCRIPT</p> 
+### <img src="https://user-images.githubusercontent.com/82381946/164913564-7c96185b-9e74-4a7d-9bdf-18570c0043b6.png"  width="50"/>  <p>React JS</p> 
 
-### `yarn build`
+&nbsp;
+&nbsp;
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 서비스 소개
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 프로젝트 소개
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 1. 메인 UI
+#### 간단하게 필요한 습관 ( 운동 <팔굽혀펴기나 윗몸일으키기> 몇 회, 공부<코딩 공부,영어 공부> 등 몇 시간 ) 을 추가하고 필요에 따라 삭제합니다. 현재 가지고 있는 모든 습관의 개수를 확인 할 수 있으며 원한다면 습관의 횟수를 리셋할 수 있습니다.
+![로그인 페이지에서 친구목록 페이지로 이동](https://user-images.githubusercontent.com/82381946/164915489-890f540a-80c7-4d80-a7ad-0973a8da832d.gif)
 
-### `yarn eject`
+&nbsp;
+&nbsp;
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 프로젝트 후 결과 ( 배운 내용 )
+1. 리액트 문법 복습
+2. 클래스 컴포넌트 문법 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
