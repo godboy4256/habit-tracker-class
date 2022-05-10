@@ -26,9 +26,11 @@
 &nbsp;
 
 ## 활용 스택
-### <img src="https://user-images.githubusercontent.com/82381946/164891267-2360c764-827e-4661-9842-a1fd29a41b57.png"  width="50"/>  <p>CSS</p> 
-### <img src="https://user-images.githubusercontent.com/82381946/164913523-01deeb5e-34f6-4344-932f-05d2a9923813.png"  width="50"/>  <p>JAVASCRIPT</p> 
-### <img src="https://user-images.githubusercontent.com/82381946/164913564-7c96185b-9e74-4a7d-9bdf-18570c0043b6.png"  width="50"/>  <p>React JS</p> 
+<div style="display:flex;flex-wrap:wrap">
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?&logo=javascript&logoColor=white">
+ <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white"> 
+ <img src="https://img.shields.io/badge/firebase-FFCA28?&logo=firebase&logoColor=white">
+</div>
 
 &nbsp;
 &nbsp;
