@@ -29,7 +29,6 @@
 <div style="display:flex;flex-wrap:wrap">
  <img src="https://img.shields.io/badge/javascript-F7DF1E?&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white"> 
- <img src="https://img.shields.io/badge/firebase-FFCA28?&logo=firebase&logoColor=white">
 </div>
 
 &nbsp;
